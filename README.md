@@ -23,16 +23,16 @@ An app based around student deals that users can save and use whenever they need
 
 ## User Requirements
 
-As a student, I want to browse through different categories, so I can look for what I am interested in. 
-As a student, I want to save deals to a list, so I can easily find them later. 
-As a student, I want to sign up with my college email, so I can verify I am a student. 
-As a student, I want to see discounts that can be used by all students or my specific college, so I know that I can use them.
-As a student, I want to see when the deal expires, so I know when I can’t use it anymore.
-As a student, I want notifications for when a discount from my list is expiring, so I can use it before it expires. 
-As a student, I want to search by stores, so I can look through deals of my favorite stores. 
-As a student, I want to earn points for using the app, so I can earn more rewards. 
-As a student, I want to read direct instructions for streaming service student discounts, so that I can follow them without confusion.
-As a student, I want recommended deals on the home screen, so I can see potential deals I would be interested in.
+-As a student, I want to browse through different categories, so I can look for what I am interested in. 
+-As a student, I want to save deals to a list, so I can easily find them later. 
+-As a student, I want to sign up with my college email, so I can verify I am a student. 
+-As a student, I want to see discounts that can be used by all students or my specific college, so I know that I can use them.
+-As a student, I want to see when the deal expires, so I know when I can’t use it anymore.
+-As a student, I want notifications for when a discount from my list is expiring, so I can use it before it expires. 
+-As a student, I want to search by stores, so I can look through deals of my favorite stores. 
+-As a student, I want to earn points for using the app, so I can earn more rewards. 
+-As a student, I want to read direct instructions for streaming service student discounts, so that I can follow them without confusion.
+-As a student, I want recommended deals on the home screen, so I can see potential deals I would be interested in.
 
 
 ## Activity Diagrams
