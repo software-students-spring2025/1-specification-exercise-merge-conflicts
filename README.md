@@ -45,4 +45,4 @@ An app based around student deals that users can save and use whenever they need
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[View Prototype](https://www.figma.com/proto/MPgdLar9ZpoO0Sfj5VFseh/Merge-Conflicts?node-id=14-3&p=f&t=cAqEPEQATLVcwHci-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A3)
