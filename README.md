@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- [Tadelin De Leon](https://github.com/TadelinD)
+- [Brandon Morales](https://github.com/BAMOEQ)
+- [Suhan Suresh](https://github.com/Suhansrh)
+- [Isaac Vivar](https://github.com/isaacv3)
 
 ## Stakeholders
 
