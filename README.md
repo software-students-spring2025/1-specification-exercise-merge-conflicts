@@ -8,19 +8,37 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+- Interviewed Carissa Contreras
+- When using coupons the user wants a quick and easy way to find coupons. Deals should be grouped into categories like fast food, retail, and tickets so they can search through what they are interested in. 
+- She also notes how it would be helpful if there was one place where she can save deals 
+for when she wants to use them later. 
+- She showed frustration when student deals require the verification of an ID since sometimes the verification does not go through due to the variety of ID’s. Instead, they would rather use their school emails as that is quick and easy to verify. 
+- Users also find frustration when they encounter deals that have ended or forgot to use a deal before the expiration date. They insist expiration dates should be clear and an alert that one of their interested deals is going to expire soon would be helpful. However, most email notifications based on deals have frequent notifications and messages that make them annoying, so notifications should be kept to a minimum.
+- She showed interest in a rewards system for the app as that would incentivize her to use it more often. 
+- She also said that recommended deals would be a good addition so good deals that she hadn’t previously known about would be brought to her attention.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An app based around student deals that users can save and use whenever they need.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a student, I want to browse through different categories, so I can look for what I am interested in. 
+As a student, I want to save deals to a list, so I can easily find them later. 
+As a student, I want to sign up with my college email, so I can verify I am a student. 
+As a student, I want to see discounts that can be used by all students or my specific college, so I know that I can use them.
+As a student, I want to see when the deal expires, so I know when I can’t use it anymore.
+As a student, I want notifications for when a discount from my list is expiring, so I can use it before it expires. 
+As a student, I want to search by stores, so I can look through deals of my favorite stores. 
+As a student, I want to earn points for using the app, so I can earn more rewards. 
+As a student, I want to read direct instructions for streaming service student discounts, so that I can follow them without confusion.
+As a student, I want recommended deals on the home screen, so I can see potential deals I would be interested in.
+
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML 1](Images/UML1.png)
+![UML 2](Images/UML2.png)
 
 ## Clickable Prototype
 
