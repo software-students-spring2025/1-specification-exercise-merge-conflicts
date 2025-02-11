@@ -14,7 +14,7 @@ Issac
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Coupon Book
 
 ## User Requirements
 
